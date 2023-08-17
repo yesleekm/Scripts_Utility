@@ -272,3 +272,93 @@ Should REMOVE file that create before 1515
    Userdata 1614 dont need to be removed
    Userdata 1615 dont need to be removed
 
+Start [tmpmesg manage_B script] at 1616
+Should REMOVE file that create before 1516
+   Userdata 1608 dont need to be removed
+   Userdata 1609 dont need to be removed
+   Userdata 1610 dont need to be removed
+   Userdata 1611 dont need to be removed
+   Userdata 1612 dont need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1708
+Should REMOVE file that create before 1608
+   !!! Userdata 1608 need to be removed
+   Userdata 1609 dont need to be removed
+   Userdata 1610 dont need to be removed
+   Userdata 1611 dont need to be removed
+   Userdata 1612 dont need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1709
+Should REMOVE file that create before 1609
+   !!! Userdata 1609 need to be removed
+   Userdata 1610 dont need to be removed
+   Userdata 1611 dont need to be removed
+   Userdata 1612 dont need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+   Userdata 1709 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1710
+Should REMOVE file that create before 1610
+   !!! Userdata 1610 need to be removed
+   Userdata 1611 dont need to be removed
+   Userdata 1612 dont need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+   Userdata 1709 dont need to be removed
+   Userdata 1710 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1711
+Should REMOVE file that create before 1611
+   !!! Userdata 1611 need to be removed
+   Userdata 1612 dont need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+   Userdata 1709 dont need to be removed
+   Userdata 1710 dont need to be removed
+   Userdata 1711 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1712
+Should REMOVE file that create before 1612
+   !!! Userdata 1612 need to be removed
+   Userdata 1613 dont need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+   Userdata 1709 dont need to be removed
+   Userdata 1710 dont need to be removed
+   Userdata 1711 dont need to be removed
+   Userdata 1712 dont need to be removed
+
+Start [tmpmesg manage_B script] at 1713
+Should REMOVE file that create before 1613
+   !!! Userdata 1613 need to be removed
+   Userdata 1614 dont need to be removed
+   Userdata 1615 dont need to be removed
+   Userdata 1616 dont need to be removed
+   Userdata 1708 dont need to be removed
+   Userdata 1709 dont need to be removed
+   Userdata 1710 dont need to be removed
+   Userdata 1711 dont need to be removed
+   Userdata 1712 dont need to be removed
+   Userdata 1713 dont need to be removed
+
