@@ -37,4 +37,4 @@ System Monitoring Scripts
 
 # Progress
 
-    23.08.21. 기능 1 구현
+    23.08.21. 기능 1 구현 완료.

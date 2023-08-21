@@ -1,1 +1,1 @@
-cat /dev/null > log
+cat /dev/null > log 
